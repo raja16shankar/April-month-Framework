@@ -18,10 +18,15 @@ public class TestMethod1 extends instaHelper {
 	public void tc_2() {
 		
 		System.out.println("test2");
+		System.out.println("test3");
+		System.out.println("test4");
+		System.out.println("test5");
 		System.out.println("test2");
 		System.out.println("test2");
 		System.out.println("test2");
+
 	}
+	
 	
 	
 }
